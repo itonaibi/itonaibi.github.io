@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itonaibi.github.io/BDw/sitemap_index.txt
+Sitemap: https://itonaibi.github.io/Ovc/sitemap_index.txt
+Sitemap: https://itonaibi.github.io/dgB/sitemap_index.txt
+Sitemap: https://itonaibi.github.io/qGl/sitemap_index.txt
